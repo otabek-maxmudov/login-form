@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "ism": "Marka",
+      "familiya": "Throtons",
+      "phone": "23123123123123",
+      "password": "asdasd"
+    },
+    {
+      "id": 2,
+      "ism": "Otabek",
+      "familiya": "Maxmudov",
+      "phone": "+998996932398",
+      "password": "6932398Otabek"
+    },
+    {
+      "id": 3,
+      "firstName": "dasd",
+      "lastName": "qweqwe",
+      "phone": "424345345",
+      "password": "rsrwer34"
+    }
+  ]
+}
